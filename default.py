@@ -43,6 +43,13 @@ def main_list(params):
 
     plugintools.add_item(
         #action="",
+        title="Storyline Online",
+        url="plugin://plugin.video.youtube/user/StorylineOnline/",
+        thumbnail=icon,
+        folder=True )
+
+    plugintools.add_item(
+        #action="",
         title="Kids Channel",
         url="plugin://plugin.video.youtube/user/edukatetv/",
         thumbnail=icon,
