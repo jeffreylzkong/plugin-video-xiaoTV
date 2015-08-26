@@ -37,7 +37,7 @@ def main_list(params):
     plugintools.add_item(
         #action="",
         title="SuperSimpleSongs",
-        url="plugin://plugin.video.youtube/channel//playlists/",
+        url="plugin://plugin.video.youtube/user/SuperSimpleSongs/",
         thumbnail=icon,
         folder=True )
 
